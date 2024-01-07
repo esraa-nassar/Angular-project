@@ -8,3 +8,6 @@ To login as user
 user@gmail.com
 user123
 
+•	Developed a User Management Single Page Application with Photo Gallery using Angular.
+•	Incorporated user authentication Services, Angular Router, reactive forms, and route guarding for enhanced security.
+•	Utilized Bootstrap to create a responsive user interface, ensuring compatibility across devices.
